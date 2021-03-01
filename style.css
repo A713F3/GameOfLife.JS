@@ -1,0 +1,31 @@
+body {
+	margin:auto;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+button {
+	background-color: #555555;
+	font-size: 21px;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+}
+button:hover{
+	color: white;
+	background-color: #4CAF50;
+}
+
+h1 {
+	color: white;
+	font-size: 45px;
+	margin: 0 0;
+	text-shadow: 2px 2px #555555;
+}
+
+#script-div {
+	margin: 30px 0 20px 0;
+}
+#header {
+	background-color: #4CAF50;
+	padding: 18px 0;
+}
